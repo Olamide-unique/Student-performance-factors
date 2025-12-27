@@ -92,3 +92,4 @@ Student academic performance is primarily driven by engagement-related factors, 
 ---
 
 ## 📁 Project Structure
+I am open to collobaration on data analysis and visualization related projects. you can reach me via email(ajibadeolamide02@gmail.com)
