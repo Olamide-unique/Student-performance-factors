@@ -1,5 +1,5 @@
 # 📊 Student Academic Performance Analysis Dashboard
-
+![Image](https://github.com/user-attachments/assets/dba0ba21-9107-414c-9887-990482d7c30b)
 ## 📌 Project Overview
 This project analyzes a student performance dataset to examine the academic, social, and lifestyle factors influencing students’ final exam results. The analysis focuses on identifying key drivers of academic success using descriptive statistics, correlation analysis, and interactive dashboards built in Excel and Power BI.
 
